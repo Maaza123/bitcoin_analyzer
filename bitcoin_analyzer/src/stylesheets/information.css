@@ -1,0 +1,13 @@
+.informationHeader{
+    padding: 0;
+}
+.informationBody{
+    border: 1px inset rgba(28,110,164,0.18);
+}
+.informationParagraph{
+    font-size: 20px;
+}
+.margin{
+    margin-left: 15px;
+    margin-right: 15px;
+}

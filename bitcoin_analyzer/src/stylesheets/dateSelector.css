@@ -1,0 +1,16 @@
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    float:left;
+    margin-left: 5%;
+    justify-content: center;
+    background-color: rgb(218,240,223);
+    border: 1px inset rgba(218,240,223,0.18);
+    border-radius: 5%;
+    width: 12%;
+    max-width: 30%;
+    padding: 20px;
+  }
+.button {
+    margin-top: 5%;
+}

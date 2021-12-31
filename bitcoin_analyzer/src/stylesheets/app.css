@@ -1,0 +1,30 @@
+.app{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    color: rgb(77, 77, 77);
+    border-color: rgb(77, 77, 77);
+}
+.header{
+    margin-top: 5px;
+    border-style: solid;
+    border-left: none;
+    border-width: 1px;
+    border-right: none;
+    top: 5;
+    right: 0;
+    left: 0;
+}
+.body{
+    margin-left: 0px;
+    margin-top: 6vh;
+}
+.informationContainer{
+    text-align: left;
+    border-width: 1px;
+    float: left;
+    margin-left: 2%;
+    max-width:80%;
+    width:75%
+    
+}
